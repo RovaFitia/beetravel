@@ -1,0 +1,18 @@
+# Ignore les dossiers de sauvegarde de texte
+*.log
+*.pot
+*.po
+*.mo
+
+# Ignore les fichiers de configuration spécifiques
+wp-config.php
+.htaccess
+
+# Ignore les téléchargements de médias
+wp-content/uploads/*
+
+# Ignore les fichiers de configuration de développement locaux
+wp-config-local.php
+
+# Ignore les fichiers de cache
+wp-content/cache/
